@@ -1,0 +1,33 @@
+{
+    "id": "s15_eclipse_fnf",
+
+    "name":
+    "1995 Mitsubishi Eclipse Fast & Furious",
+
+    "model":
+    "S15",
+
+    "author":
+    "Unknown",
+
+    "version":
+    "1.0.0",
+
+    "type":
+    "car_livery",
+
+    "files":
+    {
+        "body":
+        "body.txt",
+
+        "window":
+        "window.txt",
+
+        "compiled_body":
+        "compiled/body.json",
+
+        "compiled_window":
+        "compiled/window.json"
+    }
+}
