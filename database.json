@@ -3,6 +3,23 @@
 
     "cars": [
 
+        {
+            "id": "s15_eclipse_fnf",
+
+            "name":
+            "1995 Mitsubishi Eclipse Fast & Furious",
+
+            "model":
+            "S15",
+
+            "author":
+            "Unknown",
+
+            "path":
+            "cars/S15/Eclipse_FNF"
+
+        }
+
     ]
 
 }
