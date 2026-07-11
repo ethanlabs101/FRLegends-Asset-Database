@@ -1,0 +1,390 @@
+{
+    "carName": "ethanlabs101_E36",
+    "modelName": "E36",
+    "carSynID": 2723,
+    "parts": [
+        {
+            "path": "E36/E36_Exhaust0.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/speedometer/E36_SPEEDO.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/shifter/E36_SHIFTER.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Dampers/DAMPER_006.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Spoilers/SPOILER_C1.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Brakes/WHEEL_BRAKE_1.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Lugs/LUG_3_c1.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/seat/SEAT_5.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/handbrake/HANDBRAKE_D3.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/steeringwheel/STEERING_WHEEL_NRG01.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/gauge/TRIPLE_GAUGE_B.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/omamori/OMAMORI_8.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Plugins/Tsurikawa13.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 9
+        },
+        {
+            "path": "E36/E36_Roll_Cage_3.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        },
+        {
+            "path": "_Interior/harness/Harness_NRG04.prefab",
+            "health": 100,
+            "deforms": [],
+            "equipedPosition": 0
+        }
+    ],
+    "mainBody": {
+        "path": "",
+        "health": 100,
+        "deforms": [],
+        "equipedPosition": 0
+    },
+    "trunkDoor": {
+        "path": "",
+        "health": 100,
+        "deforms": [],
+        "equipedPosition": 0
+    },
+    "tire": {
+        "tireName": "Pergea 08RS",
+        "side": 2,
+        "health": 101
+    },
+    "rimFL": {
+        "path": "_Rims/KANSEI_KNP.prefab",
+        "size": 2,
+        "ET": 30,
+        "colorIndex": 0
+    },
+    "rimFR": {
+        "path": "_Rims/KANSEI_KNP.prefab",
+        "size": 2,
+        "ET": 30,
+        "colorIndex": 0
+    },
+    "rimRL": {
+        "path": "_Rims/KANSEI_KNP.prefab",
+        "size": 2,
+        "ET": 30,
+        "colorIndex": 0
+    },
+    "rimRR": {
+        "path": "_Rims/KANSEI_KNP.prefab",
+        "size": 2,
+        "ET": 30,
+        "colorIndex": 0
+    },
+    "color": {
+        "matType": 0,
+        "matPath": "CarPaintDefault.mat",
+        "body": {
+            "r": 183,
+            "g": 5,
+            "b": 5,
+            "a": 255
+        },
+        "hose": {
+            "r": 190,
+            "g": 47,
+            "b": 47,
+            "a": 255
+        },
+        "rollGage": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+        }
+    },
+    "leftRudder": false,
+    "appliqueData": {
+        "path": "",
+        "tiling": {
+            "x": 1,
+            "y": 1
+        },
+        "offset": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "bodyDecal": {
+        "revision": 8,
+        "capacity": 1300,
+        "binary": [
+            2,
+            5,
+            0,
+            255,
+            255,
+            0,
+            0,
+            0,
+            0,
+            100,
+            0,
+            100,
+            0,
+            0,
+            0,
+            63,
+            255,
+            255,
+            255,
+            0,
+            1,
+            5,
+            0,
+            2,
+            0,
+            143,
+            255,
+            192,
+            3,
+            78,
+            1,
+            73,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            255,
+            0,
+            1,
+            2,
+            0,
+            168,
+            255,
+            23,
+            252,
+            116,
+            0,
+            73,
+            1,
+            90,
+            0,
+            0,
+            0,
+            0,
+            255,
+            0,
+            1,
+            23,
+            2,
+            194,
+            255,
+            246,
+            255,
+            100,
+            0,
+            100,
+            0,
+            90,
+            0,
+            255,
+            255,
+            255,
+            255,
+            0,
+            1,
+            23,
+            2,
+            212,
+            1,
+            230,
+            255,
+            132,
+            0,
+            100,
+            0,
+            90,
+            0,
+            255,
+            255,
+            255,
+            255,
+            0,
+            1,
+            227,
+            5,
+            228,
+            1,
+            0,
+            0,
+            64,
+            0,
+            60,
+            0,
+            166,
+            255,
+            255,
+            255,
+            255,
+            255,
+            0,
+            1
+        ]
+    },
+    "windowDecal": {
+        "revision": 3,
+        "capacity": 500,
+        "binary": [
+            2,
+            2,
+            0,
+            255,
+            255,
+            0,
+            0,
+            0,
+            0,
+            100,
+            0,
+            100,
+            0,
+            0,
+            0,
+            63,
+            255,
+            255,
+            255,
+            0,
+            1,
+            2,
+            0,
+            2,
+            0,
+            9,
+            254,
+            16,
+            0,
+            51,
+            0,
+            104,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            255,
+            0,
+            1,
+            243,
+            7,
+            14,
+            254,
+            6,
+            0,
+            100,
+            0,
+            72,
+            0,
+            90,
+            0,
+            255,
+            255,
+            255,
+            255,
+            0,
+            1
+        ]
+    },
+    "liverySyn": 14,
+    "liveryUrl": "",
+    "hert_modified": false,
+    "config": {
+        "height": 1,
+        "balance": 0,
+        "camberF": 0.7969870567321777,
+        "camberR": 2.3797874450683594,
+        "flangeF": 0.10000000149011612,
+        "flangeR": 0.10000000149011612
+    },
+    "engine": {
+        "engineName": "1JZ",
+        "path": "_Engines/1JZ.prefab",
+        "rpmMin": 1000,
+        "rpmMax": 8500,
+        "torque": 716.7999877929688,
+        "torqueMax": 716.7999877929688,
+        "torqueLimit": 800,
+        "mass": 160,
+        "torqueBase": 515,
+        "engineLevel": 5,
+        "camshaftsLevel": 5,
+        "transmissionLevel": 5,
+        "ecuLevel": 5,
+        "turboRatio": 1,
+        "intakeKit": {
+            "path": "_Engines/1JZ_KIT1.prefab",
+            "AFLevel": 5,
+            "HSLevel": 5,
+            "ICLevel": 5,
+            "TurboLevel": 5
+        }
+    }
+}

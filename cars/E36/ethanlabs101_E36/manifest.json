@@ -1,0 +1,40 @@
+{
+    "id": "ethanlabs101_e36",
+
+    "name": "ethanlabs101 E36",
+
+    "brand": "BMW",
+
+    "model": "E36",
+
+    "author": "ethanlabs101",
+
+    "version": "1.0.0",
+
+    "type": "full_car",
+
+    "category": "drift",
+
+    "description": "ethanlabs101 E36, first car added to the Skeleton Key Vault!",
+
+    "gameVersion": "0.3.6",
+
+    "published": "2026-07-11",
+
+    "thumbnail": "preview.jpg",
+
+    "tags": [
+        "bmw",
+        "drift",
+        "demo",
+        "custom",
+        "ethanlabs101",
+        "wide-tire"
+    ],
+
+    "files":
+    {
+        "car": "car.json",
+        "thumbnail": "preview.jpg"
+    }
+}
