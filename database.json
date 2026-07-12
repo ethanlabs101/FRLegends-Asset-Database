@@ -21,6 +21,9 @@
                 "street",
                 "jdm"
             ],
+            "packs": [
+            "fast_furious"
+            ],
             "path": "liveries/S15/Eclipse_FNF"
         },
         {
@@ -42,6 +45,10 @@
                 "demo",
                 "custom",
                 "wide-tire"
+            ],
+            "packs": [
+            "bmw_drift",
+            "ethanlabs_collection"
             ],
             "path": "cars/E36/ethanlabs101_E36"
         }
