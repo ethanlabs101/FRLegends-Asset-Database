@@ -19,6 +19,10 @@
         "ethanlabs101",
         "wide-tire"
     ],
+    "packs": [
+    "bmw_drift",
+    "ethanlabs_collection"
+    ],
     "files":
     {
         "car": "car.json",
