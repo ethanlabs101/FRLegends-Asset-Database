@@ -1,24 +1,28 @@
 {
     "id": "s15_eclipse_fnf",
-    "name":
-    "1995 Mitsubishi Eclipse Fast & Furious",
-    "model":
-    "S15",
-    "author":
-    "Unknown",
-    "version":
-    "1.0.0",
-    "type":
-    "livery",
-    "files":
-    {
-        "body":
-        "body.txt",
-        "window":
-        "window.txt",
-        "compiled_body":
-        "compiled/body.json",
-        "compiled_window":
-        "compiled/window.json"
+    "name": "1995 Mitsubishi Eclipse Fast & Furious",
+    "brand": "Mitsubishi",
+    "model": "S15",
+    "author": "Unknown",
+    "version": "1.0.0",
+    "type": "livery",
+    "category": "fast_furious",
+    "description": "Fast and Furious inspired Mitsubishi Eclipse livery for S15.",
+    "gameVersion": "0.3.6",
+    "published": "2026-07-11",
+    "thumbnail": "preview.jpg",
+    "tags": [
+        "mitsubishi",
+        "eclipse",
+        "fast-furious",
+        "movie",
+        "jdm",
+        "street"
+    ],
+    "files": {
+        "body": "body.txt",
+        "window": "window.txt",
+        "compiled_body": "compiled/body.json",
+        "compiled_window": "compiled/window.json"
     }
 }
