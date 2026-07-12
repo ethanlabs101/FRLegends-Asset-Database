@@ -1,0 +1,31 @@
+{
+    "packs": [
+        {
+            "id": "fast_furious",
+            "name": "Fast & Furious Collection",
+            "type": "livery_pack",
+            "description": "Fast and Furious inspired liveries.",
+            "assets": [
+                "s15_eclipse_fnf"
+            ]
+        },
+        {
+            "id": "bmw_drift",
+            "name": "BMW Drift Collection",
+            "type": "full_car_pack",
+            "description": "BMW drift builds focused on drifting and custom setups.",
+            "assets": [
+                "ethanlabs101_e36"
+            ]
+        },
+        {
+            "id": "ethanlabs_collection",
+            "name": "EthanLabs Collection",
+            "type": "full_car_pack",
+            "description": "Official EthanLabs custom vehicle collection.",
+            "assets": [
+                "ethanlabs101_e36"
+            ]
+        }
+    ]
+}
