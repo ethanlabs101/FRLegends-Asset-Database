@@ -19,6 +19,9 @@
         "jdm",
         "street"
     ],
+    "packs": [
+    "fast_furious"
+    ],
     "files": {
         "body": "body.txt",
         "window": "window.txt",
