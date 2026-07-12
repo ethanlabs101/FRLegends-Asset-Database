@@ -22,7 +22,7 @@
                 "jdm"
             ],
             "packs": [
-            "fast_furious"
+                "fast_furious"
             ],
             "path": "liveries/S15/Eclipse_FNF"
         },
@@ -47,10 +47,46 @@
                 "wide-tire"
             ],
             "packs": [
-            "bmw_drift",
-            "ethanlabs_collection"
+                "bmw_drift",
+                "ethanlabs_collection"
             ],
             "path": "cars/E36/ethanlabs101_E36"
+        }
+    ],
+
+    "packs": [
+        {
+            "id": "fast_furious",
+            "name": "Fast & Furious Collection",
+            "type": "livery_pack",
+            "description": "Fast and Furious inspired liveries.",
+            "thumbnail": "fast_furious.jpg",
+            "published": "2026-07-11",
+            "assets": [
+                "s15_eclipse_fnf"
+            ]
+        },
+        {
+            "id": "bmw_drift",
+            "name": "BMW Drift Collection",
+            "type": "full_car_pack",
+            "description": "BMW drift builds focused on drifting and custom setups.",
+            "thumbnail": "bmw_drift.jpg",
+            "published": "2026-07-11",
+            "assets": [
+                "ethanlabs101_e36"
+            ]
+        },
+        {
+            "id": "ethanlabs_collection",
+            "name": "EthanLabs Collection",
+            "type": "full_car_pack",
+            "description": "Official EthanLabs custom vehicle collection.",
+            "thumbnail": "ethanlabs_collection.jpg",
+            "published": "2026-07-11",
+            "assets": [
+                "ethanlabs101_e36"
+            ]
         }
     ]
 }
