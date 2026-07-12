@@ -12,6 +12,15 @@
             "category": "fast_furious",
             "description": "Fast and Furious Eclipse inspired livery for S15.",
             "thumbnail": "preview.jpg",
+            "published": "2026-07-11",
+            "tags": [
+                "mitsubishi",
+                "eclipse",
+                "fast",
+                "furious",
+                "street",
+                "jdm"
+            ],
             "path": "liveries/S15/Eclipse_FNF"
         },
         {
@@ -25,6 +34,15 @@
             "category": "drift",
             "description": "ethanlabs101 E36, first car added to the Skeleton Key Vault!",
             "thumbnail": "preview.jpg",
+            "published": "2026-07-11",
+            "tags": [
+                "bmw",
+                "e36",
+                "drift",
+                "demo",
+                "custom",
+                "wide-tire"
+            ],
             "path": "cars/E36/ethanlabs101_E36"
         }
     ]
