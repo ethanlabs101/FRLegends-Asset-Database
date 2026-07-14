@@ -56,6 +56,17 @@
 
     "packs": [
         {
+            "id": "ethanlabs_collection",
+            "name": "EthanLabs Collection",
+            "type": "full_car_pack",
+            "description": "Official EthanLabs custom vehicle collection.",
+            "thumbnail": "ethanlabs_collection.jpg",
+            "published": "2026-07-11",
+            "assets": [
+                "ethanlabs101_e36"
+            ]
+        },
+        {
             "id": "fast_furious",
             "name": "Fast & Furious Collection",
             "type": "livery_pack",
@@ -72,17 +83,6 @@
             "type": "full_car_pack",
             "description": "BMW drift builds focused on drifting and custom setups.",
             "thumbnail": "bmw_drift.jpg",
-            "published": "2026-07-11",
-            "assets": [
-                "ethanlabs101_e36"
-            ]
-        },
-        {
-            "id": "ethanlabs_collection",
-            "name": "EthanLabs Collection",
-            "type": "full_car_pack",
-            "description": "Official EthanLabs custom vehicle collection.",
-            "thumbnail": "ethanlabs_collection.jpg",
             "published": "2026-07-11",
             "assets": [
                 "ethanlabs101_e36"
