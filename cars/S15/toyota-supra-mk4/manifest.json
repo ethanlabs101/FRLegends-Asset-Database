@@ -1,0 +1,31 @@
+{
+    "id": "blue-supra-mk4",
+    "name": "Toyota Supra MK4",
+    "brand": "Toyota",
+    "model": "S15",
+    "author": "unknown",
+    "version": "1.0.0",
+    "type": "full_car",
+    "category": "supra",
+    "description": "Blue Toyota Supra MK4, a JDM enthusiast necessity.",
+    "gameVersion": "0.3.6",
+    "published": "2026-08-22",
+    "thumbnail": "preview.jpg",
+    "tags": [
+        "toyota",
+        "supra",
+        "demo",
+        "sport",
+        "ethanlabs101",
+        "JDM"
+    ],
+    "packs": [
+    "jdm",
+    "sport"
+    ],
+    "files":
+    {
+        "car": "car.json",
+        "thumbnail": "preview.jpg"
+    }
+}
