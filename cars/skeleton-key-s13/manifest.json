@@ -1,0 +1,30 @@
+{
+    "id": "skeleton-key-s13",
+    "name": "Skeleton Key S13",
+    "brand": "Nissan",
+    "model": "S13",
+    "author": "ethanlabs101",
+    "version": "1.0.0",
+    "type": "full_car",
+    "category": "creator",
+    "description": "Skeleton Key S13, inspired by Skeleton Key Vault!",
+    "gameVersion": "0.3.6",
+    "published": "2026-08-22",
+    "thumbnail": "preview.jpg",
+    "tags": [
+        "nissan",
+        "creator",
+        "demo",
+        "custom",
+        "ethanlabs101",
+        "skeleton-key"
+    ],
+    "packs": [
+    "ethanlabs_collection"
+    ],
+    "files":
+    {
+        "car": "car.json",
+        "thumbnail": "preview.jpg"
+    }
+}
