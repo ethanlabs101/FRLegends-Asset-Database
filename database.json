@@ -77,6 +77,33 @@
             "ethanlabs_collection"
             ],
             "path": "cars/S13/skeleton-key-s13"
+        },
+        {
+            "id": "blue-supra-mk4",
+            "name": "Toyota Supra MK4",
+            "brand": "Toyota",
+            "model": "S15",
+            "author": "unknown",
+            "version": "1.0.0",
+            "type": "full_car",
+            "category": "supra",
+            "description": "Blue Toyota Supra MK4, a JDM enthusiast necessity.",
+            "gameVersion": "0.3.6",
+            "published": "2026-08-22",
+            "thumbnail": "preview.jpg",
+            "tags": [
+                "toyota",
+                "supra",
+                "demo",
+                "sport",
+                "ethanlabs101",
+                "JDM"
+            ],
+            "packs": [
+                "jdm",
+                "sport"
+            ],
+            "path": "cars/S15/toyota-supra-mk4"
         }
     ],
 
@@ -113,6 +140,28 @@
             "published": "2026-07-11",
             "assets": [
                 "ethanlabs101_e36"
+            ]
+        },
+        {
+            "id": "jdm",
+            "name": "JDM Collection",
+            "type": "full_car_pack",
+            "description": "A curated collection of beautiful JDM rides.",
+            "thumbnail": "jdm_collection.jpg",
+            "published": "2026-08-22",
+            "assets": [
+                "toyota-supra-mk4"
+            ]
+        },
+        {
+            "id": "sport",
+            "name": "Sport Car Collection",
+            "type": "full_car_pack",
+            "description": "For the highway demon. Buckle Up!",
+            "thumbnail": "sport_collection.jpg",
+            "published": "2026-08-22",
+            "assets": [
+                "toyota-supra-mk4"
             ]
         }
     ]
