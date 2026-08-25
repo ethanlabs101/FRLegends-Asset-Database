@@ -67,7 +67,6 @@ Includes:
 
 - Community liveries
 - Custom designs
-- Special/event liveries
 - ethanlabs101 exclusives
 
 **[Browse Liveries →](...)**
