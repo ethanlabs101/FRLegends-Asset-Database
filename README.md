@@ -8,4 +8,5 @@
 
 A structured collection of cars, liveries, complete packs,
 community creations, stock game assets, and exclusive content
-designed to work with the Skeleton Key ecosystem.
+designed to work with the Skeleton Key ecosystem. All accessible
+via the ![FR Legends Skeleton Key Vault]() CLI Application.
