@@ -145,68 +145,7 @@ inject compatible assets into FR Legends.
 
 ---
 
-## 5. Community Uploads
-
-The Asset Database is designed to support community-created
-content.
-
-Community creators can submit:
-
-- Cars
-- Liveries
-- Packs
-
-All community submissions should follow the asset rules
-and include proper content.
-
----
-
-## 6. ethanlabs101 Exclusives
-
-This section contains official content created or curated
-by ethanlabs101.
-
-Exclusive releases may include:
-
-- Custom cars
-- Custom liveries
-- Complete packs
-- Experimental content
-- Special releases
-
-These assets are maintained separately from community
-submissions.
-
-**[Browse Exclusives →](...)**
-
----
-
-## 7. Pack System
-
-Packs are collections of related assets distributed as a
-single release.
-
-A pack may contain multiple:
-
-- 🚗 Cars
-- 🎨 Liveries
-- 📦 Related assets
-
-Each pack should have its own documentation explaining:
-
-- Pack contents
-- Creator
-- Version
-- Compatibility
-- Installation
-- Changelog
-- Credits
-
-**[Browse Packs →](...)**
-
----
-
-## 8. Want to submit an asset?
+## 5. Want to submit an asset?
 
 All assets submitted to the database should follow the
 repository's organization and documentation standards.
@@ -235,58 +174,7 @@ Failure to comply with asset rules will resort in all future requests ignored.
 
 ---
 
-## 9. Credits & Attribution
-
-Creators retain credit for their work.
-
-Community assets should clearly identify their original
-creator and any additional contributors.
-
-When redistributing or modifying an asset, follow the
-license and attribution requirements specified by the
-asset's documentation.
-
----
-
-## 10. Updates
-
-The database is continuously updated with new:
-
-- Cars
-- Liveries
-- Packs
-- Community creations
-- Exclusive releases
-
-Database changes are tracked through Git history and
-repository updates.
-
-For application updates, use the built-in Skeleton Key
-updater.
-
----
-
-## 11. Contributing
-
-Want to contribute an asset?
-
-Before submitting, make sure your content follows the
-Asset Standards.
-
-### Contributions may include:
-
-- New cars
-- New liveries
-- New packs
-- Documentation improvements
-- Asset corrections
-- Database improvements
-
-**[Read the Contribution Guide →](...)**
-
----
-
-## 12. License
+## 6. License
 
 This repository contains assets from multiple sources and
 creators.
