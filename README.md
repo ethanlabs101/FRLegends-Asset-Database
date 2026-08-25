@@ -173,7 +173,7 @@ Submissions that do not comply with these requirements will be rejected without 
 
 ## 6. Need help navigating the ***Online Asset Manager?***
 
-Here is a foolproof guide on how to operate this feature like a pro.
+Here's a complete guide to using the Online Asset Manager.
 
 Click the link below to navigate to the relevant frlegends-skeleton-key documentation.
 
