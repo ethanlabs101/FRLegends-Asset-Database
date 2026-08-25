@@ -170,7 +170,7 @@ Failure to comply with asset rules will resort in all future requests ignored.
 
 ---
 
-## 6. Need Help Navigating The ***Online Asset Manager?***
+## 6. Need help navigating the ***Online Asset Manager?***
 
 No Problem. I got you.
 
