@@ -134,11 +134,12 @@ inject compatible assets into FR Legends.
 ### Recommended workflow
 
 1. Install **FR Legends Skeleton Key**
-2. Browse the Asset Database
-3. Select an asset or pack
-4. Download the required payload
-5. Add the asset to your Vault
-6. Use Skeleton Key to manage/inject the asset
+2. Run the CLI
+3. Navigate to the Online Asset Manager
+4. Select an asset or pack
+5. Download the required payload
+6. Add the asset to your Vault
+7. Use Skeleton Key to manage/inject the asset
 
 **[Get Skeleton Key →](...)**
 
