@@ -101,19 +101,7 @@ curated by ethanlabs101.
 
 ---
 
-## 3. Browse the Database
-
-| Category | Browse |
-|----------|--------|
-| 🚗 Cars | **[Browse Cars](...)** |
-| 🎨 Liveries | **[Browse Liveries](...)** |
-| 📦 Packs | **[Browse Packs](...)** |
-| 👥 Community | **[Browse Community Creations](...)** |
-| 🔑 Exclusives | **[Browse Exclusives](...)** |
-
----
-
-## 4. Asset Information
+## 3. Asset Information
 
 Every asset contains its own documentation describing
 what it is, who created it, its contents, compatibility,
@@ -136,7 +124,7 @@ Depending on the asset, documentation may include:
 
 ---
 
-## 5. Using Assets with Skeleton Key
+## 4. Using Assets with Skeleton Key
 
 The easiest way to use assets from this database is through
 the FR Legends Skeleton Key Vault.
@@ -157,7 +145,7 @@ inject compatible assets into FR Legends.
 
 ---
 
-## 6. Community Uploads
+## 5. Community Uploads
 
 The Asset Database is designed to support community-created
 content.
@@ -176,7 +164,7 @@ and include proper creator attribution.
 
 ---
 
-## 7. ethanlabs101 Exclusives
+## 6. ethanlabs101 Exclusives
 
 This section contains official content created or curated
 by ethanlabs101.
@@ -196,7 +184,7 @@ submissions.
 
 ---
 
-## 8. Pack System
+## 7. Pack System
 
 Packs are collections of related assets distributed as a
 single release.
@@ -221,7 +209,7 @@ Each pack should have its own documentation explaining:
 
 ---
 
-## 9. Asset Standards
+## 8. Asset Standards
 
 All assets submitted to the database should follow the
 repository's organization and documentation standards.
@@ -243,7 +231,7 @@ the appropriate rights or attribution.
 
 ---
 
-## 10. Credits & Attribution
+## 9. Credits & Attribution
 
 Creators retain credit for their work.
 
@@ -256,7 +244,7 @@ asset's documentation.
 
 ---
 
-## 11. Updates
+## 10. Updates
 
 The database is continuously updated with new:
 
@@ -274,7 +262,7 @@ updater.
 
 ---
 
-## 12. Contributing
+## 11. Contributing
 
 Want to contribute an asset?
 
@@ -294,7 +282,7 @@ Asset Standards.
 
 ---
 
-## 13. License
+## 12. License
 
 This repository contains assets from multiple sources and
 creators.
