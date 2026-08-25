@@ -1,1 +1,28 @@
-car
+![](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/cars/S13/skeleton-key-s13/preview.jpg)
+
+## Skeleton Key S13
+- FRL Car Model: S13
+- Brand: Nissan
+- Type: full_car
+- Author: ethanlabs101
+- Category: creator
+- Tags: nissan, creator, demo, custom, ethanlabs101, skeleton-key
+- Description: Skeleton Key S13, inspired by Skeleton Key Vault!
+- Status: Uploaded (08/23/26)
+- Version: 1.0.0
+
+---
+
+Featured in:
+
+- [ethanlabs collection Pack →]()
+
+---
+
+Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to install and inject this asset today!
+
+[FR Legends Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key)
+
+[→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
+
+---
