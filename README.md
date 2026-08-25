@@ -22,5 +22,6 @@ designed to work with the Skeleton Key ecosystem.
 |🚗 ***Cars***|***3***|[toyota-supra-mk4](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/toyota-supra-mk4.md)|
 |🎨 ***Liveries***|***1***|[Eclipse FNF](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/Eclipse_FNF.md)|
 |📦 ***Packs***|***5***|[]()|
+|👥 ***Community Creations***|***2***|[]()|
 
 
