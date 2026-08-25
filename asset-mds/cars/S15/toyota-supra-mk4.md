@@ -20,7 +20,7 @@ Featured in:
 
 ---
 
-Visit the Online Asset Manager in FR Legends Skeleton Key CLI application to install and inject today!
+Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to install and inject this asset today!
 
 [FR Legends Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key)
 
