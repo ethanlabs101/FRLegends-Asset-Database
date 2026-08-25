@@ -170,17 +170,8 @@ Failure to comply with asset rules will resort in all future requests ignored.
 
 ---
 
-## 6. License
+## 6. Need Help Navigating The ***Online Asset Manager?***
 
-This repository contains assets from multiple sources and
-creators.
+No Problem. I got you.
 
-Individual assets may have different licensing and
-redistribution requirements.
-
-Always check the documentation and license information
-associated with an asset before redistributing, modifying,
-or publishing it elsewhere.
-
-The repository's source code, documentation, and original
-content are subject to their respective licenses.
+e
