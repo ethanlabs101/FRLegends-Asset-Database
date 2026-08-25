@@ -185,8 +185,8 @@ Click the link below to navigate to the relevant frlegends-skeleton-key document
 
 If you made it this far, genuinely thank you for taking the time to do so.
 
-It's a pleasure making open-source software not just for learning, but
-to make something someone else can enjoy and/or make their life easier.
+It's a pleasure making open-source software not just as a learning experience,
+but to create something that someone else can enjoy and that can make their life easier.
 
 If you found FR Legends Skeleton Key useful or just want to support,
 star this repo & hit that follow button. 
