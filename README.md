@@ -167,7 +167,7 @@ Submit An Asset Today!
 
 ***[Proton Mail →]()***
 
-Failure to comply with asset rules will resort in all future requests ignored.
+Submissions that do not comply with these requirements will be rejected without further review.
 
 ---
 
