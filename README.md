@@ -191,4 +191,6 @@ to make something someone else can enjoy and/or make their life easier.
 If you found FR Legends Skeleton Key useful or just want to support,
 star this repo & hit that follow button. 
 
+Thanks for your support!
+
 ---
