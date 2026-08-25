@@ -11,3 +11,6 @@ community creations, stock game assets, and exclusive content
 designed to work with the Skeleton Key ecosystem.
 - All accessible via the
 [FR Legends Skeleton Key Vault](https://github.com/ethanlabs101/frlegends-skeleton-key/tree/main) CLI Application.
+- Download the tool and inject any car to your account!
+
+---
