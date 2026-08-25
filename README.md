@@ -28,7 +28,7 @@ CLI Application.
 
 ---
 
-## 1. What is this?
+## 1. Welcome!
 
 The FR Legends Asset Database is the content repository
 for the FR Legends Skeleton Key ecosystem.
@@ -39,6 +39,8 @@ and official ethanlabs101 releases.
 
 Every asset is documented and organized so it can be
 identified, downloaded, and used through Skeleton Key.
+
+Thank you for being apart of the FR Legends Community!
 
 ---
 
