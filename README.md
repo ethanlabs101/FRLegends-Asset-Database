@@ -188,7 +188,4 @@ to make something someone else can enjoy and/or make their life easier.
 If you found FR Legends Skeleton Key useful or just want to support,
 star this repo & hit that follow button. 
 
-***>_ Session Terminated...***
-***>_ Thank you for choosing FRL Skeleton Key!***
-
 ---
