@@ -1,7 +1,4 @@
-# FRLegends-Asset-Database
-
-Official FR Legends Skeleton Key Vault
-Online Asset Repository
+![header](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/images/header.png)
 
 | Category | Description | Date Published |
 |----------|-------------|----------------|
