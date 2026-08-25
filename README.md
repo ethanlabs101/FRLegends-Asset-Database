@@ -163,8 +163,8 @@ Submissions MUST Include:
 
 Submit An Asset Today!
 
-- [Telegram →]()
-- [Proton Mail →]()
+[Telegram →]()
+[Proton Mail →]()
 
 Failure to comply with asset rules will resort in all future requests ignored.
 
