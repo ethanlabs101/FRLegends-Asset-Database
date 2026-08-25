@@ -6,4 +6,6 @@
 
 ### What is this?
 
-
+A structured collection of cars, liveries, complete packs,
+community creations, stock game assets, and exclusive content
+designed to work with the Skeleton Key ecosystem.
