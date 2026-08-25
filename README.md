@@ -141,7 +141,7 @@ inject compatible assets into FR Legends.
 6. Add the asset to your Vault
 7. Use Skeleton Key to manage/inject the asset
 
-**[Get Skeleton Key →](...)**
+**[Get Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key/tree/main)**
 
 ---
 
@@ -155,12 +155,9 @@ Community creators can submit:
 - Cars
 - Liveries
 - Packs
-- Custom content
 
-All community submissions should follow the Asset Standards
-and include proper creator attribution.
-
-**[Community Submission Guide →](...)**
+All community submissions should follow the asset rules
+and include proper content.
 
 ---
 
