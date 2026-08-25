@@ -229,7 +229,7 @@ Submissions MUST Include:
 - asset description (1 small sentence)
 - .png, .jpeg, .jpg of the car in-game
 
-Submit An Asset Today!:
+Submit An Asset Today!
 
 - [Telegram]()
 - [Proton Mail]()
