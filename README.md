@@ -174,4 +174,21 @@ Failure to comply with asset rules will resort in all future requests ignored.
 
 No Problem. I got you.
 
-e
+Here is a foolproof guide on how to operate this feature like a pro.
+
+[Online Asset Manager Guide]()
+
+## 7. Thank you!
+
+If you made it this far, genuinely thank you for taking the time to do so.
+
+It's a pleasure making open-source software not just for learning, but
+to make something someone else can enjoy and/or make their life easier.
+
+If you found FR Legends Skeleton Key useful or just want to support,
+star this repo & hit that follow button. 
+
+***>_ Session Terminated...***
+***>_ Thank you for choosing FRL Skeleton Key!***
+
+---
