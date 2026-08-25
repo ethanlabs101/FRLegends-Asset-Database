@@ -104,8 +104,7 @@ curated by ethanlabs101.
 ## 3. Asset Information
 
 Every asset contains its own documentation describing
-what it is, who created it, its contents,
-version information, and installation information.
+what it is, who created it and its contents.
 
 Depending on the asset, documentation may include:
 
@@ -116,10 +115,7 @@ Depending on the asset, documentation may include:
 - Description
 - Contents
 - Preview images
-- Installation instructions
-- Changelog
 - Credits
-- License
 
 ---
 
