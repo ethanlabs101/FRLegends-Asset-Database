@@ -20,5 +20,6 @@ designed to work with the Skeleton Key ecosystem.
 |Category|Amount|Most Recent Addition|
 |--------|------|--------------------|
 |🚗 ***Cars***|***3***|[toyota-supra-mk4](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/toyota-supra-mk4.md)|
+|🎨 ***Liveries***|***1***|[]()|
 
 
