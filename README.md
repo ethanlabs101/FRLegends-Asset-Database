@@ -1,5 +1,8 @@
 # FRLegends-Asset-Database
 
+Official FR Legends Skeleton Key Vault
+Online Asset Repository
+
 | Category | Description | Date Published |
 |----------|-------------|----------------|
 <details>
