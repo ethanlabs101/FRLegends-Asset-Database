@@ -23,5 +23,6 @@ designed to work with the Skeleton Key ecosystem.
 |🎨 ***Liveries***|***1***|[Eclipse FNF](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/Eclipse_FNF.md)|
 |📦 ***Packs***|***5***|[]()|
 |👥 ***Community Creations***|***2***|[]()|
+|🔑 ***ethanlabs101 Exclusives***|***2***|[]()|
 
 
