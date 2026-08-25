@@ -17,6 +17,12 @@ Featured in:
 - [Sport Pack]()
 - [jdm Pack]()
 
-[Return to asset database]()
+---
+
+Visit the Online Asset Manager in FR Legends Skeleton Key CLI application to install and inject today!
+
+[FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key)
+
+[Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
 ---
