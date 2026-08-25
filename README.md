@@ -40,7 +40,7 @@ and official ethanlabs101 releases.
 Every asset is documented and organized so it can be
 identified, downloaded, and used through Skeleton Key.
 
-Thank you for being apart of the FR Legends Community!
+Thank you for choosing FR Legends Skeleton Key!
 
 ---
 
