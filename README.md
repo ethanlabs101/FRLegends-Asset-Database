@@ -14,3 +14,10 @@ designed to work with the Skeleton Key ecosystem.
 - Download the tool and inject any car to your account!
 
 ---
+
+### Database Stats
+
+|Category|Amount|Most Recent Addition|
+|--------|------|--------------------|
+
+
