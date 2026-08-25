@@ -150,7 +150,7 @@ Asset Rules:
 
 - no 18+ content
 - no offensive content period
-- no low quality work
+- no intentionally low-effort or incomplete submissions
 - no copies of already added content
 
 Submissions MUST Include:
