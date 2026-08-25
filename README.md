@@ -209,25 +209,32 @@ Each pack should have its own documentation explaining:
 
 ---
 
-## 8. Asset Standards
+## 8. Want to submit an asset?
 
 All assets submitted to the database should follow the
 repository's organization and documentation standards.
 
-Assets should include:
+Asset Rules:
 
-- Correct directory structure
-- Valid asset metadata
-- Accurate creator attribution
-- Version information
-- Compatibility information
-- Appropriate documentation
-- Required payload files
+- no 18+ content
+- no offensive content period
+- no low quality work
+- no copies of already added content
 
-Do not upload modified or redistributed content without
-the appropriate rights or attribution.
+Submissions MUST Include:
 
-**[Read the Asset Standards →](...)**
+- car.json (derived payload from skeleton key)
+- author name
+- asset name
+- asset description (1 small sentence)
+- .png, .jpeg, .jpg of the car in-game
+
+Submit An Asset Today!:
+
+- [Telegram]()
+- [Proton Mail]()
+
+Failure to comply with asset rules will resort in all future requests ignored.
 
 ---
 
