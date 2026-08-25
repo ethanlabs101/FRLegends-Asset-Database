@@ -6,7 +6,8 @@
 
 ### What is this?
 
-A structured collection of cars, liveries, complete packs,
+- A structured collection of cars, liveries, complete packs,
 community creations, stock game assets, and exclusive content
-designed to work with the Skeleton Key ecosystem. All accessible
-via the [FR Legends Skeleton Key Vault](https://github.com/ethanlabs101/frlegends-skeleton-key/tree/main) CLI Application.
+designed to work with the Skeleton Key ecosystem.
+- All accessible via the
+[FR Legends Skeleton Key Vault](https://github.com/ethanlabs101/frlegends-skeleton-key/tree/main) CLI Application.
