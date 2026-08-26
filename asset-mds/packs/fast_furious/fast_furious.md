@@ -1,9 +1,15 @@
-## FRLegends Asset Database Packs List | Filter: B
+## FRLegends Asset Database Packs List | fast_furious
 
-Please Select An Option To Navigate:
+***Note: Download [Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) to use these assets, and much more!*** 
 
-| Car Name | Included Assets | Pack Type |
-|----------|-----------------|-----------|
-| [bmw_drift](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/bmw_drift/bmw_drift.md) | 1 | full_car |
+***ALL cars are included with this pack.***
 
-[→ Return to packs list main view](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/index.md)
+Please Select A Car To Navigate:
+
+| Car Name|
+|---------|
+| [Eclipse_FNF](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/S15/Eclipse_FNF.md) |
+
+[→ Return to packs list Filter: F](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/F.md)
+
+[→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
