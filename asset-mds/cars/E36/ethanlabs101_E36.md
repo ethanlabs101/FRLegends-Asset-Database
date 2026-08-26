@@ -11,7 +11,7 @@
 - Status: Uploaded (07/26/26)
 - Version: 1.0.0
 
-- ***Custom Modifications:***
+***Custom Modifications:***
 -  Modified ET (3 -> 30)
 
 ---
