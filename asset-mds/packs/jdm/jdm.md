@@ -1,4 +1,4 @@
-## FRLegends Asset Database Packs List | fast_furious
+## FRLegends Asset Database Packs List | jdm
 
 ***Note: Download [Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) to use these assets, and much more!*** 
 
@@ -8,8 +8,8 @@ Please Select A Car To Navigate:
 
 | Car Name|
 |---------|
-| [Eclipse_FNF](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/S15/Eclipse_FNF.md) |
+| [Toyota Supra MK4](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S15/toyota-supra-mk4.md) |
 
-[→ Return to packs list Filter: F](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/F.md)
+[→ Return to packs list Filter: J](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/J.md)
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
