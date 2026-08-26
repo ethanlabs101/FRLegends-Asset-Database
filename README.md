@@ -115,7 +115,6 @@ Depending on the asset, documentation may include:
 - Description
 - Contents
 - Preview images
-- Credits
 
 ---
 
