@@ -15,7 +15,7 @@
 
 Featured in:
 
-- [ethanlabs collection Pack →]()
+- [ethanlabs collection Pack →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/ethanlabs_collection/ethanlabs_collection.md)
 
 ---
 
@@ -24,8 +24,6 @@ Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to
 [FR Legends Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key)
 
 [→ Return to S car list filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/cars-filter/S.md)
-
-[→ Return to ethanlabs_collection filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/ethanlabs_collection/ethanlabs_collection.md)
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
