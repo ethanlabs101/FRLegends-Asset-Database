@@ -11,6 +11,10 @@ Please Select A Character To Navigate:
 
 | Character|Amount|
 |----------|------|
-| [E](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/livery-filter/E.md) | 1 
+| [B]( - ) | 1 |
+| [E]( - ) | 1 | 
+| [F]( - ) | 1 |
+| [J]( - ) | 1 |
+| [S]( - ) | 1 |
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
