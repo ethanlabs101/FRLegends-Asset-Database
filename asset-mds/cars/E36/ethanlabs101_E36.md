@@ -28,6 +28,8 @@ Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to
 
 [→ Return to E car list filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/cars-filter/E.md)
 
+[→ Return to ethanlabs_collection filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/ethanlabs_collection/ethanlabs_collection.md)
+
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
 ![](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/images/exclusive-footer-animated.svg)
