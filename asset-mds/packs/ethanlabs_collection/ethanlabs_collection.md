@@ -11,7 +11,7 @@ Please Select A Car To Navigate:
 | [ethanlabs101_E36](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/E36/ethanlabs101_E36.md) |
 | [skeleton-key-s13](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S13/skeleton-key-s13.md) |
 
-[→ Return to packs list Filter: E](https://github.com/ethanlabs101/FRLegends-Asset-Database)
+[→ Return to packs list Filter: E](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/E.md)
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
