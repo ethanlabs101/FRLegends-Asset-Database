@@ -69,7 +69,7 @@ Includes:
 - Custom designs
 - ethanlabs101 exclusives
 
-**[Browse Liveries →](...)**
+**[Browse Liveries →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/index.md)**
 
 ### 📦 Packs
 
