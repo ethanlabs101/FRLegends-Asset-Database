@@ -4,6 +4,6 @@ Please Select An Option To Navigate:
 
 | Car Name | Included Assets | Pack Type |
 |----------|-----------------|-----------|
-| [jdm]() | 1 | full_car |
+| [jdm](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/jdm/jdm.md) | 1 | full_car |
 
 [→ Return to packs list main view](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/index.md)
