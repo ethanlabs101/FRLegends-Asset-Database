@@ -97,7 +97,7 @@ community.
 Official releases and exclusive content created or
 curated by ethanlabs101.
 
-**[Browse Exclusives →](...)**
+**[Browse Exclusives →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/ethanlabs_collection/index.md)**
 
 ---
 
