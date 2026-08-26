@@ -23,8 +23,8 @@ CLI Application.
 | 🚗 **Cars** | **3** | [Toyota Supra MK4](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S15/toyota-supra-mk4.md) |
 | 🎨 **Liveries** | **1** | [Eclipse FNF](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/S15/Eclipse_FNF.md) |
 | 📦 **Packs** | **5** | [Sport Pack](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/sport/sport.md) |
-| 👥 **Community Creations** | **2** | — |
-| 🔑 **ethanlabs101 Exclusives** | **2** | [skeleton-key-s13](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S13/skeleton-key-s13.md)|
+| 👥 **Community Creations** | **2** | [Toyota Supra MK4](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S15/toyota-supra-mk4.md) |
+| 🔑 **ethanlabs101 Exclusives** | **2** | [skeleton-key-s13](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S13/skeleton-key-s13.md) |
 
 ---
 
