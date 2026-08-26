@@ -133,9 +133,8 @@ inject compatible assets into FR Legends.
 2. Run the CLI
 3. Navigate to the Online Asset Manager
 4. Select an asset or pack
-5. Download the required payload
-6. Add the asset to your Vault
-7. Use Skeleton Key to manage/inject the asset
+5. Download the asset and inject directly to your account
+6. Assets are saved to disk and can be injected into any account
 
 **[Get Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key/tree/main)**
 
