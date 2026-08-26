@@ -15,8 +15,8 @@
 
 Featured in:
 
-- [Sport Pack →]()
 - [jdm Pack →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/jdm/jdm.md)
+- [Sport Pack →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/sport/sport.md)
 
 ---
 
