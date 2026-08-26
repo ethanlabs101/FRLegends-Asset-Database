@@ -12,7 +12,7 @@ Please Select A Character To Navigate:
 | Character|Amount|
 |----------|------|
 | [B]( - ) | 1 |
-| [E]( - ) | 1 | 
+| [E](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/index.md) | 1 | 
 | [F]( - ) | 1 |
 | [J]( - ) | 1 |
 | [S]( - ) | 1 |
