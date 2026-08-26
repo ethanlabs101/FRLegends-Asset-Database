@@ -90,7 +90,7 @@ Packs may contain:
 Content submitted or created by members of the FR Legends
 community.
 
-**[Browse Community Creations →](...)**
+**[Browse Community Creations →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/community-creations/index.md)**
 
 ### 🔑 ethanlabs101 Exclusives
 
