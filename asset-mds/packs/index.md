@@ -15,6 +15,6 @@ Please Select A Character To Navigate:
 | [E](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/E.md) | 1 | 
 | [F](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/F.md) | 1 |
 | [J](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/J.md) | 1 |
-| [S]( - ) | 1 |
+| [S](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/packs-filter/S.md) | 1 |
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
