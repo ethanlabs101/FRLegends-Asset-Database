@@ -1,4 +1,4 @@
-![header](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/images/header.png)
+![header](https://github.com/ethanlabs101/FRLegends-Asset-Database/images/header.png)
 
 ## The official asset repository for FR Legends Skeleton Key.
 
