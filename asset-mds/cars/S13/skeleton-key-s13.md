@@ -25,6 +25,6 @@ Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
-![](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/cars/S13/skeleton-key-s13/preview.jpg)
+![](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/images/exclusive-footer.png)
 
 ---
