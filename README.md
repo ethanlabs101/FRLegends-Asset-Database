@@ -24,7 +24,7 @@ CLI Application.
 | 🎨 **Liveries** | **1** | [Eclipse FNF](...) |
 | 📦 **Packs** | **5** | — |
 | 👥 **Community Creations** | **2** | — |
-| 🔑 **ethanlabs101 Exclusives** | **2** | — |
+| 🔑 **ethanlabs101 Exclusives** | **2** | [skeleton-key-s13](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S13/skeleton-key-s13.md)|
 
 ---
 
