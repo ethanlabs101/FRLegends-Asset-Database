@@ -15,7 +15,7 @@
 
 Featured in:
 
-- [Fast & Furious Collection →]()
+- [Fast & Furious Collection →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/fast_furious/fast_furious.md)
 
 ---
 
@@ -24,8 +24,6 @@ Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to
 [FR Legends Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key)
 
 [→ Return to E livery list filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/livery-filter/E.md)
-
-[→ Return to fast_furious filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/fast_furious/fast_furious.md)
 
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
