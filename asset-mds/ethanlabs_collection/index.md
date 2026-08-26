@@ -1,4 +1,4 @@
-## FRLegends Asset Database ethanlabs101 Exclusives List | "ethanlabs collection"
+## FRLegends Asset Database ethanlabs101 Exclusives List
 
 ***Note: Download [Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) to use these assets, and much more!*** 
 
