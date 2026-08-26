@@ -191,6 +191,6 @@ but to create something that someone else can enjoy and that can make their life
 If you found FR Legends Skeleton Key useful or just want to support,
 star this repo & hit that follow button. 
 
-![footer](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/images/footer.png)
+![footer](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/images/footer-animated.svg)
 
 ---
