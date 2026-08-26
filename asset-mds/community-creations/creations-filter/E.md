@@ -6,4 +6,4 @@ Please Select An Option To Navigate:
 |----------|------------|
 | [Eclipse_FNF](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/S15/Eclipse_FNF.md) | (08/23/26)|
 
-[→ Return to car list main view](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/index.md)
+[→ Return to community creations main view](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/community-creations/index.md)
