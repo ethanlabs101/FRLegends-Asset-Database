@@ -4,6 +4,6 @@ Please Select An Option To Navigate:
 
 | Car Name | Included Assets | Pack Type |
 |----------|-----------------|-----------|
-| [fast_furious]() | 1 | livery|
+| [fast_furious](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/fast_furious/fast_furious.md) | 1 | livery|
 
 [→ Return to packs list main view](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/index.md)
