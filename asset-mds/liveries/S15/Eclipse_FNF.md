@@ -25,6 +25,8 @@ Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to
 
 [→ Return to E livery list filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/liveries/livery-filter/E.md)
 
+[→ Return to E community creations filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/community-creations/creations-filter/E.md)
+
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
 ---
