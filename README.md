@@ -161,7 +161,7 @@ Submissions MUST Include:
 
 Submit An Asset Today!
 
-***[Telegram →]()***
+***[Telegram →](https://t.me/cpmgarage_gg)***
 
 ***[Proton Mail →]()***
 
