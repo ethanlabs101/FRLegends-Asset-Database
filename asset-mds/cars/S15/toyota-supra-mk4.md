@@ -24,6 +24,8 @@ Visit the Online Asset Manager in the FR Legends Skeleton Key CLI application to
 
 [FR Legends Skeleton Key →](https://github.com/ethanlabs101/frlegends-skeleton-key)
 
+[→ Return to T community creations filter](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/community-creations/creations-filter/T.md)
+
 [→ Return to asset database](https://github.com/ethanlabs101/FRLegends-Asset-Database)
 
 ---
