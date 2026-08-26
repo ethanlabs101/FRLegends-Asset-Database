@@ -57,7 +57,7 @@ Includes:
 - Custom cars
 - ethanlabs101 exclusives
 
-**[Browse Cars →](...)**
+**[Browse Cars →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/index.md)**
 
 ### 🎨 Liveries
 
