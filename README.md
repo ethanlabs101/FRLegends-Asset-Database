@@ -83,7 +83,7 @@ Packs may contain:
 - Themed collections
 - Creator collections
 
-**[Browse Packs →](...)**
+**[Browse Packs →](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/packs/index.md)**
 
 ### 👥 Community Creations
 
