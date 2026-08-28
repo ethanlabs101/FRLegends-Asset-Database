@@ -8,7 +8,7 @@
 - Category: supra
 - Tags: toyota, supra, demo, sport, ethanlabs101, JDM
 - Description: Blue Toyota Supra MK4, a JDM enthusiast necessity.
-- Status: Uploaded (08/23/26)
+- Status: Uploaded (08/22/26)
 - Version: 1.0.0
 
 ---
