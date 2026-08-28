@@ -163,9 +163,7 @@ Submit An Asset Today!
 
 ***[Telegram →](https://t.me/cpmgarage_gg)***
 
-***[Proton Mail →](mailto:ethanlabs101@proton.me)***
-
-***Or email me manually via proton to ethanlabs101@proton.me***
+***Or email me via proton ethanlabs101@proton.me***
 
 Submissions that do not comply with these requirements will be rejected without further review.
 
