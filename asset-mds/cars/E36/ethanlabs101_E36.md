@@ -8,7 +8,7 @@
 - Category: drift
 - Tags: bmw, e36, drift, demo, custom, wide-tire
 - Description: ethanlabs101_E36, first car added to the Skeleton Key Vault!
-- Status: Uploaded (07/26/26)
+- Status: Uploaded (07/11/26)
 - Version: 1.0.0
 
 ***Custom Modifications:***
