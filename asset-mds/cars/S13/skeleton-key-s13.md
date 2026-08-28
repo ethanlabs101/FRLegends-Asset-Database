@@ -8,7 +8,7 @@
 - Category: creator
 - Tags: nissan, creator, demo, custom, ethanlabs101, skeleton-key
 - Description: Skeleton Key S13, inspired by Skeleton Key Vault!
-- Status: Uploaded (08/23/26)
+- Status: Uploaded (08/22/26)
 - Version: 1.0.0
 
 ---
