@@ -8,7 +8,7 @@
 - Category: fast_furious
 - Tags: mitsubishi, eclipse, fast, furious, street, jdm 
 - Description: Fast and Furious Eclipse inspired livery for S15.
-- Status: Uploaded (08/23/26)
+- Status: Uploaded (07/11/26)
 - Version: 1.0.0
 
 ---
