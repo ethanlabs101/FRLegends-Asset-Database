@@ -163,7 +163,7 @@ Submit An Asset Today!
 
 ***[Telegram →](https://t.me/cpmgarage_gg)***
 
-***Or email me via proton ethanlabs101@proton.me***
+***Or email me via Proton Mail -> ethanlabs101@proton.me***
 
 Submissions that do not comply with these requirements will be rejected without further review.
 
@@ -175,7 +175,7 @@ Here's a complete guide to using the Online Asset Manager.
 
 Click the link below to navigate to the relevant frlegends-skeleton-key documentation.
 
-[Online Asset Manager Guide →]()
+[Online Asset Manager Guide →](https://github.com/ethanlabs101/frlegends-skeleton-key/blob/main/docs/modding-sandbox-guide/online-asset-manager-guide/online-asset-manager-guide.md)
 
 ---
 
