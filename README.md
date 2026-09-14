@@ -18,9 +18,7 @@ CLI Application.
 
 ### Database Stats
 
-| Total Assets: |
-|---------------|
-|     **4**     |
+| Total Assets: | **4** |
 
 | Category | Amount | Most Recent Addition |
 |----------|--------|----------------------|
