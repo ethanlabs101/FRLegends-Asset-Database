@@ -28,6 +28,8 @@ CLI Application.
 | 👥 **Community Creations** | **2** | [Toyota Supra MK4](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S15/toyota-supra-mk4.md) |
 | 🔑 **ethanlabs101 Exclusives** | **2** | [skeleton-key-s13](https://github.com/ethanlabs101/FRLegends-Asset-Database/blob/main/asset-mds/cars/S13/skeleton-key-s13.md) |
 
+**More assets coming soon!**
+
 ---
 
 ## 1. Welcome!
